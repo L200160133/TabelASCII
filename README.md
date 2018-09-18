@@ -1,2 +1,2 @@
-# TabelASCII
-skndfc
+# Sistem Manajemen Basis Dara Tabel ASCII
+
